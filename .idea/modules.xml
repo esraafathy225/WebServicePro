@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebServicePro.iml" filepath="$PROJECT_DIR$/WebServicePro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebServicePro-master.iml" filepath="$PROJECT_DIR$/.idea/modules/WebServicePro-master.iml" group="WebServicePro-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WebServicePro-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WebServicePro-master-app.iml" group="WebServicePro-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
